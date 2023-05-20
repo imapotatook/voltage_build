@@ -47,7 +47,6 @@ PRODUCT_PACKAGES += \
     EasterEgg \
     ExternalStorageProvider \
     FusedLocation \
-    GmsCompat \
     InputDevices \
     KeyChain \
     librs_jni \
